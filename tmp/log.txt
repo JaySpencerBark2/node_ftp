@@ -1,0 +1,1 @@
+Login Detected: anonymous, on this connection {"name":"ftp-srv","hostname":"Jay-PC","pid":3480}, at this date/time: 2024-08-18 20:15:56
